@@ -126,3 +126,28 @@ pre,
 code {
   background: var(--code-background);
 }
+
+div .gt_float_switcher {
+  font-size: 14px;
+  background: #1e1e1e;
+  border-radius: 10px;
+  color: white;
+}
+
+div .gt_float_switcher .gt_options a {
+  font-size: 14px;
+  background: #1e1e1e;
+  color: white;
+}
+
+.gt-current-lang {
+  background-color: #1e1e1e;
+}
+
+div .gt-lang-code {
+  color: white;
+}
+
+div .gt_float_switcher-arrow {
+  color: white;
+}
